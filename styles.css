@@ -1,2 +1,4 @@
 /*  your css code here. If applicable */
-.button:hover
+button:hover{
+	background-color:blue;
+}
